@@ -1,53 +1,54 @@
-# 🚀 C# EĞİTİM KAMPI PROJELERİ
+# 🚀 C# BOOT CAMP PROJECTS
 
-Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım ilk 10 projeyi içermektedir. Her bir proje, belirli programlama kavramlarını anlama ve uygulama yeteneğimi geliştirmeme yardımcı oldu. Aşağıda her projeye dair teknik detayları bulabilirsiniz:
+This repo contains the first 10 projects I completed during the C# Bootcamp taught by Murat Yücedağ. Each project helped me improve my ability to understand and apply specific programming concepts. Below you can find the technical details of each project:
 
-## ✨ Proje 1: Merhaba Dünya!
-Bu projede, konsola yazı yazdırmayı öğrendim. Console.WriteLine() komutu ile temel yazdırma işlemlerini keşfettim ve bir C# programının yapısını kavradım. 🌍
+## ✨ Project 1: Hello World!
+In this project, I learned how to print to the console. I explored basic printing operations with the Console.WriteLine() command and understood the structure of a C# program. 🌍
 
-## ✨ Proje 2: Değişkenler
-Bu projede int, string, double gibi farklı veri türlerinde değişkenler tanımlamayı ve kullanmayı öğrendim. Veri tipleri ve değişkenler üzerinde işlemler yapmayı denedim. 🔢
+## ✨ Project 2: Variables
+In this project, I learned to define and use variables of different data types such as int, string, double. I tried to perform operations on data types and variables. 🔢
 
-## ✨ Proje 3: Diziler (Arrays)
-Bu projede, diziler ile çalışmayı öğrendim. Birden fazla değeri bir dizi içinde nasıl depolayabileceğimi ve döngülerle bu değerleri nasıl işleyebileceğimi keşfettim. 🧩
+## ✨ Project 3: Arrays
+In this project, I learned how to work with arrays. I discovered how to store multiple values in an array and how to manipulate these values with loops. 🧩
 
-## ✨ Proje 4: Karar Yapıları (If-Else)
-Bu proje ile if, else if ve else yapıları kullanarak karar mekanizmalarını oluşturdum. Programın farklı koşullara göre nasıl davrandığını test ettim. ⚖️
+## ✨ Project 4: Decision Structures (If-Else)
+With this project, I created decision mechanisms using if, else if and else constructs. I tested how the program behaves according to different conditions. ⚖️
 
-## ✨ Proje 5: Döngüler (Loops)
-Bu projede for, while ve foreach döngüleri ile tanıştım. Döngülerle tekrarlayan işlemleri otomatikleştirme ve büyük veri gruplarını işleme becerisi kazandım. 🔄
+## ✨ Project 5: Loops
+In this project, I was introduced to for, while and foreach loops. With loops, I gained the ability to automate repetitive operations and process large data sets. 🔄
 
-## ✨ Proje 6: Metotlar (Methods)
-Kodlarımı daha düzenli ve tekrar kullanılabilir hale getirmek için metotlar oluşturmayı öğrendim. Parametre alarak işlem yapan ve sonuç döndüren metotlar yazmayı denedim. 🛠️
+## ✨ Project 6: Methods
+I learned how to create methods to make my code more organized and reusable. I tried to write methods that take parameters and return results. 🛠️
 
-## ✨ Proje 7: Foreach Döngüsü ve Sınav Sistemi
-Bu projede, foreach döngüsünü daha yakından inceleyip bir sınav sistemi simülasyonu oluşturdum. Öğrencilerin sınav notlarını alarak ortalamalarını hesapladım ve geçme/kalma durumlarını belirledim. 🎓
+#✨ Project 7: Foreach Cycle and Examination System
+In this project, I took a closer look at the foreach loop and created a simulation of an exam system. I took students' exam grades, calculated their averages and determined their pass/fail status. 🎓
 
-## ✨ Proje 8: Geriye Değer Döndüren Fonksiyonlar
-Son projede, geri değer döndüren metotlar ile çalıştım. Kullanıcıdan aldığım verileri işleyip sonuçları döndüren fonksiyonlar oluşturdum. Bu proje ile daha karmaşık işlemleri öğrenmiş oldum. 🎗️
+## ✨ Project 8: Backward Returning Functions
+In the last project, I worked with methods that return back values. I created functions that process the data I receive from the user and return the results. With this project, I learned more complex operations. 🎗️
 
-## ✨ Proje 9: Veritabanı Tabanlı Ürün-Kategori Bilgi Sistemi
-Bu projede veritabanı bağlantısı kurmayı ve veritabanından veri çekmeyi öğrendim. Kullanıcıdan tablo seçimini alarak, ilgili bilgileri ekran üzerinde listeleyen bir uygulama geliştirdim. SqlConnection ve SqlCommand sınıflarıyla veritabanına bağlanıp, sorgular çalıştırmayı deneyimledim. Bu projeyle birlikte veritabanı işlemleri ve veri akışı hakkında önemli bilgiler edindim. 💾
+## ✨ Project 9: Database Based Product-Category Information System
+In this project, I learned how to establish a database connection and extract data from the database. I developed an application that lists the relevant information on the screen by taking the table selection from the user. I connected to the database with SqlConnection and SqlCommand classes and experienced running queries. With this project, I gained important knowledge about database operations and data flow. 💾
 
-## ✨ Proje 10: Menü Sipariş İşlem Paneli
-Bu projede, temel CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştirerek bir veritabanı ile etkileşim sağladım. SQL bağlantısı kullanarak ürün ve kategori bilgilerini ekleme, listeleme, güncelleme ve silme işlemlerini uyguladım. Proje sayesinde SQL komutlarıyla veritabanına veri kaydetme ve sorgulama işlemlerini pekiştirmiş oldum. Bu kapsamda, ürün bilgilerini düzenleyerek daha dinamik bir yapı elde etmeyi öğrendim. 📊
+## ✨ Project 10: Menu Order Processing Panel
+In this project, I interacted with a database by performing basic CRUD (Create, Read, Update, Delete) operations. I implemented adding, listing, updating and deleting product and category information using SQL connection. Thanks to the project, I was able to save and query data to the database with SQL commands.
 
-## ✨ Proje 11: EfTravel İstatistik Paneli
+
+## ✨ Project 11: Eftravel Statistics Panel
 ![image](https://github.com/user-attachments/assets/e02b7915-8601-4bb3-8309-4802dfd68c45)
 
-Bu projede Entity Framework kullanarak bir seyahat veri tabanındaki bilgileri sorgulayıp görselleştiren bir istatistik paneli geliştirdim. Proje, Windows Forms üzerinde çeşitli istatistikleri canlı olarak kullanıcıya göstermeyi amaçladı. 💻
+In this project, I developed a statistics panel that queries and visualizes information in a travel database using Entity Framework. The project aimed to show various statistics live on Windows Forms to the user. 💻
 
-Projede yer alan özellikler şunlardır:
-Toplam lokasyon sayısı, kapasite, rehber sayısı gibi genel bilgilerin hesaplanması.
-Ortalama kapasite ve fiyat gibi istatistiksel değerlerin gösterilmesi.
-Belirli bir şehir ya da ülkeye ait verilerin özel olarak filtrelenmesi.
-Maksimum kapasite ve fiyat gibi en yüksek değerlere sahip şehirlerin tespit edilmesi.
-Belirli bir rehberin sorumlu olduğu tur sayısının bulunması.
+The features included in the project are as follows:
+Calculation of general information such as total number of locations, capacity, number of guides.
+Display of statistical values such as average capacity and price.
+Special filtering of data for a specific city or country.
+Identifying the cities with the highest values such as maximum capacity and price.
+Finding the number of tours a particular guide is responsible for.
 
-Kazanımlarım:
-Entity Framework kullanarak veri tabanına bağlantı kurma, sorgulama ve LINQ ifadeleri ile filtreleme işlemlerini daha etkin bir şekilde kullanmayı öğrendim.
-Windows Forms uygulaması üzerinde veri tabanındaki bilgileri görselleştirerek kullanıcı dostu bir arayüz tasarladım.
-Sorgu sonuçlarını etkili bir şekilde işleyerek, projeye işlevsellik kattım. 📊
-Bu proje, hem veri tabanı bilgimi geliştirmemi sağladı hem de görsel bir sonuç sunarak uygulamanın etkisini artırdı. 
+Achievements
+I learned how to use Entity Framework to connect to the database, query and filter with LINQ statements more effectively.
+I designed a user-friendly interface by visualizing the information in the database on the Windows Forms application.
+I added functionality to the project by processing query results effectively. 📊
+This project not only helped me improve my database knowledge but also increased the impact of the application by providing a visual result. 
 
-Bu projeler sayesinde C# diline dair temel kavramları uygulamalı olarak öğrenme fırsatı buldum. İlerleyen projelerde bu bilgileri daha da geliştireceğim!
+Thanks to these projects, I had the opportunity to learn the basic concepts of the C# language in practice. I will further develop this knowledge in future projects!
